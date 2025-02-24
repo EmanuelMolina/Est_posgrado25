@@ -37,7 +37,7 @@ sd(edad)
 edad * 2
 edad * c(2,3)
 
-  
+
 
 
 
